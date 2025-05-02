@@ -146,7 +146,7 @@ async function checkPaymentStatus(md5, amount, transactionId, email, username, p
 
 
 const sendToTelegram = async (message) => {
-  const TELEGRAM_API = `https://api.telegram.org/bot8162031976:AAEzZc3iKq9OhgJru9eb9XTrP-HnuYHY6QE/sendMessage`;
+  const TELEGRAM_API = `telegram bot token`;
 
   try {
     const response = await fetch(TELEGRAM_API, {
