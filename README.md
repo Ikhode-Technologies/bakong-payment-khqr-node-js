@@ -15,7 +15,7 @@ This Node.js server provides an API to generate **KHQR payment QR codes** and ve
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/khqr-payment-server.git
+git clone https://github.com/MyKhode/khqr-payment-server.git
 cd khqr-payment-server
 ```
 
@@ -118,4 +118,4 @@ MIT
 
 ## Author
 
-Created by [Your Name or Team].
+Created by Ikhode Studio.
