@@ -7,7 +7,7 @@ This Node.js server provides an API to generate **KHQR payment QR codes** and ve
   <tr>
     <td>
       <a href="https://www.ikhode.site/">
-        <img width="350" src="https://github.com/user-attachments/assets/8aead125-14da-4205-a01f-eb5eb9b8da5b" alt="Profile Image">
+        <img width="550" src="https://github.com/user-attachments/assets/8aead125-14da-4205-a01f-eb5eb9b8da5b" alt="Profile Image">
       </a>
     </td>
     <td>
